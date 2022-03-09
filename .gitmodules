@@ -1,0 +1,6 @@
+[submodule "mtalloc"]
+	path = mtalloc
+	url = git@github.com:RUB-SysSec/xTag-mtalloc.git
+[submodule "llvm"]
+	path = llvm
+	url = git@github.com:RUB-SysSec/xTag-llvm.git
